@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">presview</string>
+    <string name="accessibility_service_description">Allow the application to boot up on startup and auto restart on crashes.</string>
+    <string name="accessibility_service_label">Presentation Signage</string>
+</resources>
